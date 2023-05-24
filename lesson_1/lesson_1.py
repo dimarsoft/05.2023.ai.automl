@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler
+from sklearn.preprocessing import StandardScaler  # , MinMaxScaler
 import autokeras as ak
 import pprint
 
