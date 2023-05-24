@@ -1,2 +1,4 @@
 Autokeras==1.0.20
 TensorFlow==2.12.00
+pandas==2.0.0
+sklearn
